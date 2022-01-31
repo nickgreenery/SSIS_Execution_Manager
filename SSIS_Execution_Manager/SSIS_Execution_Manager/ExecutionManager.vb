@@ -14,7 +14,7 @@ Module ExecutionManager
 
     Sub Main(ByVal args As String())
         Try
-
+            'Delclare variables
             Dim doc As New XmlDocument
             Dim nodeList As XmlNodeList
             Dim nodes As XmlNode
