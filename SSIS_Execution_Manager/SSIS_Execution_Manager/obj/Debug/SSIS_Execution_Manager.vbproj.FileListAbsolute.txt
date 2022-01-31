@@ -1,0 +1,61 @@
+c:\users\nickg.ppc\documents\visual studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.exe.config
+c:\users\nickg.ppc\documents\visual studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.exe
+c:\users\nickg.ppc\documents\visual studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.pdb
+c:\users\nickg.ppc\documents\visual studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.xml
+c:\users\nickg.ppc\documents\visual studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.Resources.resources
+c:\users\nickg.ppc\documents\visual studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.vbproj.GenerateResource.Cache
+c:\users\nickg.ppc\documents\visual studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.exe
+c:\users\nickg.ppc\documents\visual studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.xml
+c:\users\nickg.ppc\documents\visual studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.pdb
+U:\Projects\Visual Studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.exe.config
+U:\Projects\Visual Studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.exe.manifest
+U:\Projects\Visual Studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.application
+U:\Projects\Visual Studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.exe
+U:\Projects\Visual Studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.pdb
+U:\Projects\Visual Studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.xml
+U:\Projects\Visual Studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.Resources.resources
+U:\Projects\Visual Studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.vbproj.GenerateResource.Cache
+U:\Projects\Visual Studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.exe.manifest
+U:\Projects\Visual Studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.application
+U:\Projects\Visual Studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.exe
+U:\Projects\Visual Studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.xml
+U:\Projects\Visual Studio 2012\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.pdb
+C:\Users\ngreene\Downloads\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.exe.config
+C:\Users\ngreene\Downloads\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.exe
+C:\Users\ngreene\Downloads\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.xml
+C:\Users\ngreene\Downloads\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.pdb
+C:\Users\ngreene\Downloads\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.exe.manifest
+C:\Users\ngreene\Downloads\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.application
+C:\Users\ngreene\Downloads\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.exe
+C:\Users\ngreene\Downloads\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.pdb
+C:\Users\ngreene\Downloads\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.xml
+C:\Users\ngreene\Downloads\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.Resources.resources
+C:\Users\ngreene\Downloads\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.vbproj.GenerateResource.Cache
+C:\Users\ngreene\Downloads\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.exe.manifest
+C:\Users\ngreene\Downloads\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.application
+C:\Users\ngreene\Documents\Visual Studio 2013\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.exe.config
+C:\Users\ngreene\Documents\Visual Studio 2013\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.exe.manifest
+C:\Users\ngreene\Documents\Visual Studio 2013\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.application
+C:\Users\ngreene\Documents\Visual Studio 2013\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.exe
+C:\Users\ngreene\Documents\Visual Studio 2013\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.pdb
+C:\Users\ngreene\Documents\Visual Studio 2013\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.xml
+C:\Users\ngreene\Documents\Visual Studio 2013\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.Resources.resources
+C:\Users\ngreene\Documents\Visual Studio 2013\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.vbproj.GenerateResource.Cache
+C:\Users\ngreene\Documents\Visual Studio 2013\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.exe.manifest
+C:\Users\ngreene\Documents\Visual Studio 2013\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.application
+C:\Users\ngreene\Documents\Visual Studio 2013\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.exe
+C:\Users\ngreene\Documents\Visual Studio 2013\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.xml
+C:\Users\ngreene\Documents\Visual Studio 2013\Projects\SSIS_Execution_Manager\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.pdb
+C:\Users\ngreene\Documents\Visual Studio 2013\projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.exe.config
+C:\Users\ngreene\Documents\Visual Studio 2013\projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.exe
+C:\Users\ngreene\Documents\Visual Studio 2013\projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.xml
+C:\Users\ngreene\Documents\Visual Studio 2013\projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.pdb
+C:\Users\ngreene\Documents\Visual Studio 2013\projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.exe.manifest
+C:\Users\ngreene\Documents\Visual Studio 2013\projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.application
+C:\Users\ngreene\Documents\Visual Studio 2013\projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.exe
+C:\Users\ngreene\Documents\Visual Studio 2013\projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.pdb
+C:\Users\ngreene\Documents\Visual Studio 2013\projects\SSIS_Execution_Manager\SSIS_Execution_Manager\bin\Debug\SSIS_Execution_Manager.xml
+C:\Users\ngreene\Documents\Visual Studio 2013\projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.Resources.resources
+C:\Users\ngreene\Documents\Visual Studio 2013\projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.vbproj.GenerateResource.Cache
+C:\Users\ngreene\Documents\Visual Studio 2013\projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.exe.manifest
+C:\Users\ngreene\Documents\Visual Studio 2013\projects\SSIS_Execution_Manager\SSIS_Execution_Manager\obj\Debug\SSIS_Execution_Manager.application
